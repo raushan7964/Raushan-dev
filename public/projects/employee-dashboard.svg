@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <rect width="1200" height="700" fill="#0B1A2A"/>
+  <circle cx="160" cy="120" r="220" fill="#14B8A6" fill-opacity="0.25"/>
+  <circle cx="1000" cy="620" r="280" fill="#F59E0B" fill-opacity="0.25"/>
+  <rect x="90" y="80" width="1020" height="540" rx="28" fill="#10273D" stroke="#1E3A53"/>
+  <rect x="130" y="130" width="260" height="430" rx="20" fill="#132E48"/>
+  <rect x="430" y="130" width="640" height="110" rx="20" fill="#173754"/>
+  <rect x="430" y="270" width="305" height="290" rx="20" fill="#173754"/>
+  <rect x="765" y="270" width="305" height="290" rx="20" fill="#173754"/>
+  <text x="130" y="50" fill="#E2E8F0" font-family="Space Grotesk, sans-serif" font-size="42" font-weight="700">Employee Management Dashboard</text>
+</svg>

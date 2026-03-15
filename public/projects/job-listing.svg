@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0f172a"/>
+  <rect x="0" y="0" width="800" height="500" fill="url(#grad1)" opacity="0.6"/>
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="800" y2="500">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+  <!-- Search Bar -->
+  <rect x="80" y="40" width="640" height="50" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="110" y="72" fill="#64748b" font-family="system-ui" font-size="16">🔍 Search for jobs, companies, or keywords...</text>
+  <!-- Filter Chips -->
+  <rect x="80" y="110" width="100" height="34" rx="17" fill="#1e293b" stroke="#7c3aed" stroke-width="1"/>
+  <text x="105" y="132" fill="#a78bfa" font-family="system-ui" font-size="13" font-weight="600">Remote</text>
+  <rect x="196" y="110" width="110" height="34" rx="17" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="218" y="132" fill="#94a3b8" font-family="system-ui" font-size="13">Full-time</text>
+  <rect x="322" y="110" width="120" height="34" rx="17" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="344" y="132" fill="#94a3b8" font-family="system-ui" font-size="13">Frontend</text>
+  <!-- Job Cards Row 1 -->
+  <rect x="80" y="164" width="310" height="146" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <circle cx="116" cy="200" r="20" fill="#7c3aed" opacity="0.3"/>
+  <text x="116" y="206" fill="#a78bfa" font-family="system-ui" font-size="16" text-anchor="middle">G</text>
+  <text x="150" y="198" fill="#f1f5f9" font-family="system-ui" font-size="15" font-weight="700">Senior React Dev</text>
+  <text x="150" y="218" fill="#64748b" font-family="system-ui" font-size="12">Google · Remote</text>
+  <rect x="100" y="240" width="80" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="116" y="256" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">React.js</text>
+  <rect x="190" y="240" width="90" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="206" y="256" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">TypeScript</text>
+  <text x="100" y="290" fill="#94a3b8" font-family="system-ui" font-size="14" font-weight="600">$150K - $200K</text>
+
+  <rect x="410" y="164" width="310" height="146" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <circle cx="446" cy="200" r="20" fill="#06b6d4" opacity="0.3"/>
+  <text x="446" y="206" fill="#67e8f9" font-family="system-ui" font-size="16" text-anchor="middle">M</text>
+  <text x="480" y="198" fill="#f1f5f9" font-family="system-ui" font-size="15" font-weight="700">Frontend Engineer</text>
+  <text x="480" y="218" fill="#64748b" font-family="system-ui" font-size="12">Meta · Hybrid</text>
+  <rect x="430" y="240" width="80" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="446" y="256" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">Next.js</text>
+  <rect x="520" y="240" width="100" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="536" y="256" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">Tailwind CSS</text>
+  <text x="430" y="290" fill="#94a3b8" font-family="system-ui" font-size="14" font-weight="600">$130K - $180K</text>
+
+  <!-- Job Cards Row 2 -->
+  <rect x="80" y="326" width="310" height="146" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <circle cx="116" cy="362" r="20" fill="#f59e0b" opacity="0.3"/>
+  <text x="116" y="368" fill="#fcd34d" font-family="system-ui" font-size="16" text-anchor="middle">A</text>
+  <text x="150" y="360" fill="#f1f5f9" font-family="system-ui" font-size="15" font-weight="700">UI/UX Developer</text>
+  <text x="150" y="380" fill="#64748b" font-family="system-ui" font-size="12">Amazon · On-site</text>
+  <rect x="100" y="400" width="80" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="116" y="416" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">Figma</text>
+  <rect x="190" y="400" width="80" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="206" y="416" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">React</text>
+  <text x="100" y="452" fill="#94a3b8" font-family="system-ui" font-size="14" font-weight="600">$120K - $160K</text>
+
+  <rect x="410" y="326" width="310" height="146" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <circle cx="446" cy="362" r="20" fill="#ec4899" opacity="0.3"/>
+  <text x="446" y="368" fill="#f9a8d4" font-family="system-ui" font-size="16" text-anchor="middle">S</text>
+  <text x="480" y="360" fill="#f1f5f9" font-family="system-ui" font-size="15" font-weight="700">React Native Dev</text>
+  <text x="480" y="380" fill="#64748b" font-family="system-ui" font-size="12">Stripe · Remote</text>
+  <rect x="430" y="400" width="110" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="446" y="416" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">React Native</text>
+  <rect x="550" y="400" width="80" height="24" rx="6" fill="#0f766e" opacity="0.15"/>
+  <text x="566" y="416" fill="#2dd4bf" font-family="system-ui" font-size="11" font-weight="600">Mobile</text>
+  <text x="430" y="452" fill="#94a3b8" font-family="system-ui" font-size="14" font-weight="600">$140K - $190K</text>
+</svg>

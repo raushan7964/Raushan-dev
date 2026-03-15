@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#030712"/>
+  <rect x="0" y="0" width="800" height="500" fill="url(#grad3)" opacity="0.5"/>
+  <defs>
+    <linearGradient id="grad3" x1="0" y1="0" x2="800" y2="500">
+      <stop offset="0%" style="stop-color:#0d9488;stop-opacity:0.25"/>
+      <stop offset="50%" style="stop-color:#06b6d4;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0.2"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="15%" cy="20%" r="30%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:transparent;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="85%" cy="70%" r="30%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:transparent;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="800" height="500" fill="url(#orb1)"/>
+  <rect x="0" y="0" width="800" height="500" fill="url(#orb2)"/>
+  <!-- Grid Background -->
+  <line x1="0" y1="60" x2="800" y2="60" stroke="#1e293b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="0" y1="120" x2="800" y2="120" stroke="#1e293b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="0" y1="180" x2="800" y2="180" stroke="#1e293b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="200" y1="0" x2="200" y2="500" stroke="#1e293b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="400" y1="0" x2="400" y2="500" stroke="#1e293b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="600" y1="0" x2="600" y2="500" stroke="#1e293b" stroke-width="0.5" opacity="0.3"/>
+  <!-- Nav -->
+  <rect x="0" y="0" width="800" height="50" fill="#0f172a" opacity="0.7"/>
+  <text x="40" y="32" fill="#f1f5f9" font-family="system-ui" font-size="18" font-weight="800">Raushan<tspan fill="#2dd4bf">.</tspan>dev</text>
+  <text x="460" y="32" fill="#64748b" font-family="system-ui" font-size="13">About</text>
+  <text x="530" y="32" fill="#64748b" font-family="system-ui" font-size="13">Skills</text>
+  <text x="600" y="32" fill="#64748b" font-family="system-ui" font-size="13">Projects</text>
+  <text x="680" y="32" fill="#2dd4bf" font-family="system-ui" font-size="13" font-weight="600">Contact</text>
+  <!-- Badge -->
+  <rect x="80" y="100" width="160" height="28" rx="14" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="100" y="119" fill="#2dd4bf" font-family="system-ui" font-size="10" font-weight="700">✨ AVAILABLE FOR HIRE</text>
+  <!-- Hero Text -->
+  <text x="80" y="170" fill="#f1f5f9" font-family="system-ui" font-size="36" font-weight="900">Hi, I'm</text>
+  <text x="80" y="220" fill="#2dd4bf" font-family="system-ui" font-size="40" font-weight="900">Raushan Kumar</text>
+  <text x="80" y="260" fill="#64748b" font-family="system-ui" font-size="18">Building scalable React products|</text>
+  <text x="80" y="295" fill="#94a3b8" font-family="system-ui" font-size="13" opacity="0.8">Frontend Developer with 1.8+ years crafting fast, responsive,</text>
+  <text x="80" y="315" fill="#94a3b8" font-family="system-ui" font-size="13" opacity="0.8">and maintainable React applications.</text>
+  <!-- CTA Buttons -->
+  <rect x="80" y="340" width="140" height="40" rx="10" fill="#0d9488"/>
+  <text x="115" y="365" fill="white" font-family="system-ui" font-size="13" font-weight="700">→ View Projects</text>
+  <rect x="236" y="340" width="150" height="40" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="260" y="365" fill="#f1f5f9" font-family="system-ui" font-size="13" font-weight="600">↓ Download CV</text>
+  <!-- Stats Cards -->
+  <rect x="500" y="80" width="260" height="100" rx="16" fill="#0f172a" stroke="#1e293b" stroke-width="1" opacity="0.8"/>
+  <text x="520" y="112" fill="#64748b" font-family="system-ui" font-size="10" font-weight="600">ROLE</text>
+  <text x="520" y="140" fill="#f1f5f9" font-family="system-ui" font-size="20" font-weight="800">Frontend Developer</text>
+  <text x="520" y="164" fill="#2dd4bf" font-family="system-ui" font-size="14" font-weight="600">React.js Specialist</text>
+  <rect x="500" y="196" width="124" height="80" rx="16" fill="#0f172a" stroke="#1e293b" stroke-width="1" opacity="0.8"/>
+  <text x="520" y="224" fill="#64748b" font-family="system-ui" font-size="10" font-weight="600">EXPERIENCE</text>
+  <text x="520" y="258" fill="#2dd4bf" font-family="system-ui" font-size="24" font-weight="800">1.8+</text>
+  <rect x="636" y="196" width="124" height="80" rx="16" fill="#0f172a" stroke="#1e293b" stroke-width="1" opacity="0.8"/>
+  <text x="656" y="224" fill="#64748b" font-family="system-ui" font-size="10" font-weight="600">LOCATION</text>
+  <text x="656" y="258" fill="#f1f5f9" font-family="system-ui" font-size="20" font-weight="800">Noida</text>
+</svg>
